@@ -1,0 +1,3 @@
+require firmware-qcom-boot-kaanapali.inc
+
+SRC_URI[bootbinaries.sha256sum] = "87B72830FD06FFD08EBC211301A254F4EF46325FDE75BB6FF82AC558A5C26B12"
